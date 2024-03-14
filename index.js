@@ -1,6 +1,6 @@
 console.log("Hello World!");
 
-generateNumber(45);
+generateNumber(75);
 
 
 function generateNumber(max) {
