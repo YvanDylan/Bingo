@@ -14,11 +14,11 @@ function generateNumber(max) {
     } else if (randomNumber >= 31 && randomNumber <= 45) {
         console.log("The number is in N.");
     } else if (randomNumber >= 46 && randomNumber <= 60) {
-        console.log("The number is in G.")
+        console.log("The number is in G.");
     } else if (randomNumber >= 61 && randomNumber <= 75) {
-        comsole.log("The number is in O.")
+        console.log("The number is in O.");
     } else {
-        console.log("The number is invalid!")
+        console.log("The number is invalid!");
     }
 
     return console.log(randomNumber);
