@@ -30,7 +30,7 @@ function newNumber(maxNumber) {
         document.querySelector("#td16").textContent = b;
         document.querySelector("#td21").textContent = b;
     } else if (x >= 16 && x <= 30) {
-        console.log('New number ${x} belongs to "I"');
+        console.log('New number belongs to "I"');
         I = true;
         INumber = x;
         document.querySelector("#td2").textContent = x;
